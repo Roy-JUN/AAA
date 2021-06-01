@@ -1,7 +1,7 @@
 <template>
      <div>
          <h1>
-             happy day 
+             哈哈哈哈哈哈哈
          </h1>
      </div>
 </template>
